@@ -1,0 +1,26 @@
+.installment-plan-modal .modal-header.red-caption .modal-title span {
+    font-size: 56px;
+    padding: 1px 25px 10px 2px;
+    letter-spacing: 10px;
+}
+
+.installment-plan-modal .modal-body {
+    padding: 30px 15px;
+}
+
+.installment-plan-modal .modal-body > p {
+    font-size: 21px;
+    padding-bottom: 5px;
+}
+
+.installment-plan-modal .modal-body .phone-form {
+    margin-top: 30px;
+}
+
+.installment-plan-modal .installment-plan-error {
+    margin-top: 30px;
+    display: none;
+}
+.ModalErrorBox {
+    margin-top: 10px;
+}
